@@ -366,7 +366,20 @@
     <a id="scroll-top" href="#top" title="Scroll top"><i class="fa fa-angle-up"></i></a>
 
     <!-- End -->
-    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDwHqErJP9xLul8Q3e7DqIRgDopNqXwOnk"></script>
+    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCmNWv-bX4s4ZviwR87iytqvJU690k-f8k"></script>
+
+     <script>
+    // Initialize and add the map
+    function initMap() {
+      // The location of Uluru
+      var uluru = {lat: -25.344, lng: 131.036};
+      // The map, centered at Uluru
+      var map = new google.maps.Map(
+          document.getElementById('map'), {zoom: 4, center: uluru});
+      // The marker, positioned at Uluru
+      var marker = new google.maps.Marker({position: uluru, map: map});
+    }
+    </script>
 
     <script src="assets/js/plugins.min.js"></script>
     <script src="assets/js/jquery.validate.min.js"></script>
