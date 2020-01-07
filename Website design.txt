@@ -56,6 +56,14 @@ index-charity	good elements on page
 Home - no counter, think about layout
 about us - no counter, leadership
 
+index8.html
+index10.html
+index-agency.html
+index-agency3.html
+index-creative.html
+index-restaurant.html
+index-cafe2.html
+
 
 
 
