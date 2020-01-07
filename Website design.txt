@@ -1,0 +1,77 @@
+Home - Index3
+
+Header version - 4, 5, 6, 8 (Also check elements page header
+Footer - About us, twitter feed, get in touch
+Check Elements menu----- counters, typography, collapse, callouts, blocks, tabs, progress bar, tables, alert, media, corousal, tooltip, modals
+
+
+About us - About us (keep menu style same as home)
+
+Why us - services.html, 2 and 3 all are good (check menu style in all services page chose one for whole website)
+
+
+Freedom Stories - starting page (category-list-fullwidth.html) then detail page Under shop check product and product 2 page
+
+
+Blogs - starting page (category-fullwidth-4col.html or category-fullwidth-3col.html) then detail page Under shop check product and product 2 page
+2nd option
+starting page (blog-masonry-3col.html) then single.html (Blog post in Blog menu)
+3rd option
+blog-list.html in Blog menu
+
+
+Video Blog - Same as blog add youtube videos, can use media from element menu
+
+Contact - contact1.html or contact4.html
+
+Programs - can have tabs from element menu
+
+#0069B0 Actual and in menu selection
+
+#347FB6 and #004B7D dark blue
+
+
+#222222 bold text color
+
+#787879 text color
+
+#00AFF0 - logo color
+
+for menu color changes
+5548-5549
+
+
+index2
+index8
+index-agency-2
+index-agency-3
+index-agency-5
+index-medical-1
+
+
+index-charity	good elements on page
+
+
+01012020
+Home - no counter, think about layout
+about us - no counter, leadership
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
